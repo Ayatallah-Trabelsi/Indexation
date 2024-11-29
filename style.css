@@ -1,0 +1,59 @@
+body {
+    background-color: #f2f2f2;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: #333333;
+  }
+  
+  /* Style the search bar and button container */
+  .search-container {
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: center; /* Space elements evenly */
+    align-items: center; /* Align vertically */
+    width: 100%; /* Make the container full width */
+  }
+  
+  #search-button {
+    display: block;
+    width: 150px;
+    height: 40px;
+    background-color: #428bca;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  #search-button:hover {
+    background-color: #357ebd;
+  }
+  
+  #datafile {
+    display: block; /* Show the input field */
+    margin-right: 50px; /* Add space between input and button */
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 5px 10px; /* Add padding */
+    font-size: 16px; /* Adjust font size */
+  }
+  
+  #results {
+    display: block;
+    margin: 0 auto;
+    max-width: 500px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  

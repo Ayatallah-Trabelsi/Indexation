@@ -1,0 +1,26 @@
+Visiosim
+introduction:
+Imaginez que vous recherchez un concept d'image précis mais que vous n'avez pas 
+les mots clés parfaits.
+Vous pouvez télécharger une image d'un paysage de montagne, par exemple, et le moteur vous
+renverra des paysages similaires basés sur la similarité visuelle capturée dans
+l'embedding, même si l'image originale comporte des éléments uniques comme une fleur
+spécifique au premier plan.
+
+
+Imaginez avoir une bibliothèque d'images à portée de main, où vous pouvez instantanément
+ rechercher des images similaires à celles que vous aimez. Fini le temps passé à parcourir
+ des résultats de recherche interminables. Voici la puissance de notre moteur de recherche 
+d'images similaire.
+
+Avec notre moteur de recherche d'images similaire, il vous suffit de télécharger une image
+ et notre système va automatiquement trouver les images les plus similaires dans notre base
+ de données. Que vous recherchiez des paysages époustouflants, des portraits captivants ou 
+des œuvres d'art inspirantes, notre moteur de recherche vous permettra de découvrir de
+ nouvelles images qui correspondent à votre style et à vos préférences.
+
+
+
+Alors, sans plus attendre, plongez dans notre moteur de recherche d'images similaire et
+ découvrez comment il peut révolutionner la façon dont vous explorez et interagissez
+ avec les images en ligne.
